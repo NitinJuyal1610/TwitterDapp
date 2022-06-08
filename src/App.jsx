@@ -86,8 +86,8 @@ function App() {
       <div
         style={{
           backgroundColor: " #0960bd",
-          width: "85vh",
-          marginLeft: "-65px",
+          width: "100vh",
+          marginLeft: "-45px",
           display: "flex",
           flexDirection: "column",
           gap: "20px",
